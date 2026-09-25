@@ -71,6 +71,8 @@ void loop() {
 ```
 
 # Observation
+
+
 <img width="1392" height="1599" alt="image" src="https://github.com/user-attachments/assets/0f67bd27-3b22-4421-a83a-b30bc3b950df" />
 
 
